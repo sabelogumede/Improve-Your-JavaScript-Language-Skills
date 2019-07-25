@@ -1,0 +1,8 @@
+# ignore a single file
+# mycode.class
+
+# ignore an entire directory
+/download_zip/
+
+# ignore a file type
+# *.json
