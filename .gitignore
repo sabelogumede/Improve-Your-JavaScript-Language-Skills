@@ -3,6 +3,8 @@
 
 # ignore an entire directory
 /download_zip/
+/node_modules/
+
 
 # ignore a file type
 # *.json
